@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController <UIActionSheetDelegate>
+@interface ViewController : UIViewController <UIAlertViewDelegate,UIActionSheetDelegate>
 
 @end
